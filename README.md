@@ -1,3 +1,5 @@
+![](Tietosuojakuvakkeet%20otsikkokuva.png)
+
 # Tietosuojakuvakkeet
 
 Henkilötietojen käsittelyn läpinäkyvyys on yksi eurooppalaisen tietosuojan perusperiaatteista.
